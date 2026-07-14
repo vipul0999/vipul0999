@@ -9,7 +9,7 @@ I build production-grade backend systems and scalable web applications - from RE
 - ⚙️ Focused on **API design, database architecture, and containerized deployments**
 - 👯 Open to collaborating on **full-stack Python and AI Dev projects**
 - 💼 Actively seeking **Full-Stack Python Developer / Backend Engineer / AI Engineer** roles
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vipul-kale/) · [[Email]](mailto:vipulkale1415@gmial.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vipul-kale/) · [Email](mailto:vipulkale1415@gmial.com)
 
 ---
 
