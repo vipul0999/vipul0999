@@ -77,21 +77,6 @@ Automated resume parsing engine that extracts structured candidate data (skills,
 End-to-end real-time analytics platform: event ingestion, stream processing, REST/GraphQL APIs, and interactive dashboards.
 `FastAPI` `Django REST` `PostgreSQL` `MongoDB` `Redis` `Kafka` `Airflow` `PySpark` `Docker` `AWS`
 
----
-
-## 📈 GitHub Stats
- 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vipul0999&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul0999&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
- 
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-kale/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](vipulkale1415@gmail.com)
 <!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 -->
